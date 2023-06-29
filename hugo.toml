@@ -1,5 +1,5 @@
 baseURL = ''
-languageCode = 'en-us'
+languageCode = 'zh-cn'
 title = "Sunny's Site"
 theme = 'paper'
 github = 'Sunny2567'
